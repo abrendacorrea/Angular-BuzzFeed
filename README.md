@@ -1,5 +1,12 @@
 # ProjetoBuzzfeed
 
+Projeto realizado junto com o BootCamp da DIO - Criando um Clone do BuzzFeed com Angular   
+
+![image](https://github.com/abrendacorrea/Angular-BuzzFeed/assets/129328112/93edf793-584c-4b8a-8de7-290264e34e57)
+
+
+ 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
 
 ## Development server
